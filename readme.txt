@@ -1,2 +1,2 @@
 git is a distributed version control system.
-git is frss software.
+git is free software.
